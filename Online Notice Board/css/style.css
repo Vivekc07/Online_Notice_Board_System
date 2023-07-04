@@ -1,0 +1,15 @@
+#header{
+  background: #555555;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+#login_form{
+  padding-top: 75px;
+}
+#left_sidebar{
+  border-right: 2px solid black;
+}
+#container{
+  margin-left: 25px;
+}
